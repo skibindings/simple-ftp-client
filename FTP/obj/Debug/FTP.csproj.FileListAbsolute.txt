@@ -1,0 +1,7 @@
+C:\Users\minea\source\repos\FTP\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\minea\source\repos\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\minea\source\repos\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\minea\source\repos\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\minea\source\repos\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\minea\source\repos\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\minea\source\repos\FTP\FTP\obj\Debug\FTP.pdb
